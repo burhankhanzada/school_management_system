@@ -1,0 +1,42 @@
+C:\Users\usama pc\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe.config
+C:\Users\usama pc\source\repos\School Management System\School Management System\bin\Debug\School Management System.exe
+C:\Users\usama pc\source\repos\School Management System\School Management System\bin\Debug\School Management System.pdb
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.exe
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.pdb
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Attendence.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+C:\Users\usama pc\source\repos\School Management System\School Management System\bin\Debug\Guna.UI2.dll
+C:\Users\usama pc\source\repos\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\bin\Debug\School Management System.exe.config
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\bin\Debug\School Management System.exe
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\bin\Debug\School Management System.pdb
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\bin\Debug\Guna.UI2.dll
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.csproj.AssemblyReference.cache
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.csproj.SuggestedBindingRedirects.cache
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Attendence.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Dashboard.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Events.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Fees.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Login.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.MainMenu.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Splash.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Students.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School_Management_System.Teachers.resources
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.csproj.GenerateResource.cache
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.csproj.CopyComplete
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.exe
+E:\University\Iqra\Courses\Visual Programming (Lab)\School Management System\School Management System\obj\Debug\School Management System.pdb
